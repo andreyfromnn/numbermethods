@@ -1,1 +1,1 @@
-проект для изучения численных методов
+Translated in to english version
